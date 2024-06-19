@@ -29,8 +29,19 @@ function testRegexpDomainChars(string $string): void
         : $string . " : Doesn't match" . PHP_EOL;
 }
 
+function testRegexpDomainCompact(string $string): void
+{
+    echo CustomRegexp::testMatchByDomainCompact($string)
+        ? $string . " : Match" . PHP_EOL
+        : $string . " : Doesn't match" . PHP_EOL;
+}
+
 array_map('testRegexpDomain', $testData);
 
 echo '---------------------------' . PHP_EOL;
 
 array_map('testRegexpDomainChars', $testData);
+
+echo '---------------------------' . PHP_EOL;
+
+array_map('testRegexpDomainCompact', $testData);
