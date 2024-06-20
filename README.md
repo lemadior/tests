@@ -1,6 +1,8 @@
 # Test tasks for SupportOne
 Test for trying to gain a vacancy of PHP-developer
 
+NOTE: *Tasks order present as its appears in the test file.*
+
 ---
 
 1. REGEXP
