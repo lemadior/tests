@@ -30,3 +30,8 @@ As output, it must show a transliterated string.
 **NOTE:** Because of quite unclear problem conditions some
 moments I'm added on my own. 
 
+3. ARRAYS
+
+Run ```testArrays.php``` file
+
+As output the elements of the result array must be shown.
