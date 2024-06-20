@@ -1,0 +1,121 @@
+./TestFList/mainFile.txt
+./TestFList/Folder-2/SubFolder-22/MainCopy.M-278.doc
+./TestFList/Folder-2/SubFolder-22/Third-level-22.2/tKevel_222.jpg
+./TestFList/Folder-2/SubFolder-22/Third-level-22.2/TL-222.txt
+./TestFList/Folder-2/SubFolder-22/Third-level-22.2/B-736.png
+./TestFList/Folder-2/SubFolder-22/externalConnection.tiff
+./TestFList/Folder-2/SubFolder-22/third Level 22-1/documents_V.2.doc
+./TestFList/Folder-2/SubFolder-22/third Level 22-1/myPhoto-1.png
+./TestFList/Folder-2/SubFolder-22/third Level 22-1/foundedDublicates-2.lst
+./TestFList/Folder-2/SubFolder-22/ThirdLevel223/Repository_v.27.php
+./TestFList/Folder-2/SubFolder-22/ThirdLevel223/SuperFolder.22/SuperFile-v1.png
+./TestFList/Folder-2/SubFolder-22/ThirdLevel223/CopyNotes78.txt
+./TestFList/Folder-2/SubFolder-22/ThirdLevel223/mimeTypes-0287.doc
+./TestFList/Folder-2/SubFolder-22/Error-22.f.txt
+./TestFList/Folder-2/Sub_Folder21/third Level 21-1/makeNewClass-7.php
+./TestFList/Folder-2/Sub_Folder21/third Level 21-1/Copy-83746535.doc
+./TestFList/Folder-2/Sub_Folder21/third Level 21-1/TL-21-1.txt
+./TestFList/Folder-2/Sub_Folder21/ThirdLevel213/JF746DJnuh7NJncjd74w8.gif
+./TestFList/Folder-2/Sub_Folder21/ThirdLevel213/A-6.txt
+./TestFList/Folder-2/Sub_Folder21/ThirdLevel213/Document987643.docx
+./TestFList/Folder-2/Sub_Folder21/mMmdsacnkiureGGFd678.png
+./TestFList/Folder-2/Sub_Folder21/Report03836.txt
+./TestFList/Folder-2/Sub_Folder21/Autumn-2.mp3
+./TestFList/Folder-2/Sub_Folder21/Third-level-21.2/javaConverter-v3764.php
+./TestFList/Folder-2/Sub_Folder21/Third-level-21.2/GH-486.png
+./TestFList/Folder-2/Sub_Folder21/Third-level-21.2/SecondTest-67.pdf
+./TestFList/Folder-2/Description-1.txt
+./TestFList/Folder-2/MainLOg7.log
+./TestFList/Folder-2/CopyPass22.png
+./TestFList/Folder-2/sub Folder 23/BingoX-2.dat
+./TestFList/Folder-2/sub Folder 23/Sweeper2.log
+./TestFList/Folder-2/sub Folder 23/Third-level-23.2/G-99.gif
+./TestFList/Folder-2/sub Folder 23/Third-level-23.2/HYT-89-2a.txt
+./TestFList/Folder-2/sub Folder 23/Third-level-23.2/List-12072024.lst
+./TestFList/Folder-2/sub Folder 23/logoCompany-v.55-1.png
+./TestFList/Folder-2/sub Folder 23/third Level 23-1/VerySecretDocument-1.txt
+./TestFList/Folder-2/sub Folder 23/third Level 23-1/AlienPhoto-2.png
+./TestFList/Folder-2/sub Folder 23/third Level 23-1/kappaDirection-32.doc
+./TestFList/Folder-2/sub Folder 23/ThirdLevel233/Manual-TX-4667-v7i.pdf
+./TestFList/Folder-2/sub Folder 23/ThirdLevel233/Go8.txt
+./TestFList/Folder-2/sub Folder 23/ThirdLevel233/TL-2-33.png
+./TestFList/Folder1/MainFile-1.dat
+./TestFList/Folder1/myTest-1.php
+./TestFList/Folder1/sub Folder 1-1/third Level 11-1/MyNotes-11.doc
+./TestFList/Folder1/sub Folder 1-1/third Level 11-1/copyList2.txt
+./TestFList/Folder1/sub Folder 1-1/third Level 11-1/Screenshot-9999.png
+./TestFList/Folder1/sub Folder 1-1/Errors-01.zip
+./TestFList/Folder1/sub Folder 1-1/12-filesList.lst
+./TestFList/Folder1/sub Folder 1-1/ThirdLevel113/Photo3i864.tiff
+./TestFList/Folder1/sub Folder 1-1/ThirdLevel113/finalData-test2.dat
+./TestFList/Folder1/sub Folder 1-1/ThirdLevel113/AccessLog-22.tgz
+./TestFList/Folder1/sub Folder 1-1/Third-level-11.2/Document.2746.soc
+./TestFList/Folder1/sub Folder 1-1/Third-level-11.2/A-973.png
+./TestFList/Folder1/sub Folder 1-1/Third-level-11.2/MyNotes-2.txt
+./TestFList/Folder1/sub Folder 1-1/settingsServerNew-1.jpg
+./TestFList/Folder1/Sub_Folder12/third Level 12-1/CopyFiles-98.php
+./TestFList/Folder1/Sub_Folder12/third Level 12-1/screenshot-3947.jpeg
+./TestFList/Folder1/Sub_Folder12/third Level 12-1/copyLog-3863.log
+./TestFList/Folder1/Sub_Folder12/image_scan-99.jpg
+./TestFList/Folder1/Sub_Folder12/Third-level-12.2/screenshot-3862.gif
+./TestFList/Folder1/Sub_Folder12/Third-level-12.2/copy_09242924.log
+./TestFList/Folder1/Sub_Folder12/Third-level-12.2/newLogFile.txt
+./TestFList/Folder1/Sub_Folder12/ThirdLevel123/Agreement-4765248.doc
+./TestFList/Folder1/Sub_Folder12/ThirdLevel123/Report0937.txt
+./TestFList/Folder1/Sub_Folder12/ThirdLevel123/Document-12.png
+./TestFList/Folder1/Sub_Folder12/Readme_777.txt
+./TestFList/Folder1/Sub_Folder12/category-298.php
+./TestFList/Folder1/SubFolder-13/photoOne.tiff
+./TestFList/Folder1/SubFolder-13/ThirdLevel133/copy-09.png
+./TestFList/Folder1/SubFolder-13/ThirdLevel133/order-08-82637.docx
+./TestFList/Folder1/SubFolder-13/ThirdLevel133/manual-scanner-37865.pdf
+./TestFList/Folder1/SubFolder-13/Project2137.txt
+./TestFList/Folder1/SubFolder-13/Third-level-13.2/screenshot-28134727314.jpg
+./TestFList/Folder1/SubFolder-13/Third-level-13.2/files-List-6.lst
+./TestFList/Folder1/SubFolder-13/Third-level-13.2/technicalTask-1.doc
+./TestFList/Folder1/SubFolder-13/third Level 13-1/IgonredFiles.lst
+./TestFList/Folder1/SubFolder-13/third Level 13-1/index_01.php
+./TestFList/Folder1/SubFolder-13/third Level 13-1/default_726.conf
+./TestFList/Folder1/Webserver-12042024.log
+./TestFList/foLder 3/list-A1.txt
+./TestFList/foLder 3/NewSyntax-v.2.php
+./TestFList/foLder 3/Sub_Folder3-1/Third-level-31.2/AddressMap-2764b1.png
+./TestFList/foLder 3/Sub_Folder3-1/Third-level-31.2/mp3InfoSettings.ini
+./TestFList/foLder 3/Sub_Folder3-1/Third-level-31.2/CopyList1.txt
+./TestFList/foLder 3/Sub_Folder3-1/Photo2.png
+./TestFList/foLder 3/Sub_Folder3-1/Settings.v7.res
+./TestFList/foLder 3/Sub_Folder3-1/third Level 31-1/MockData-v65.php
+./TestFList/foLder 3/Sub_Folder3-1/third Level 31-1/AA-9374-cjui8.png
+./TestFList/foLder 3/Sub_Folder3-1/third Level 31-1/epoch-My-New-Astral-Body-2.pdf
+./TestFList/foLder 3/Sub_Folder3-1/third Level 31-1/SuperFolder 34/SF-34-unique.pdf
+./TestFList/foLder 3/Sub_Folder3-1/ThirdLevel313/II-87-4i387674-8947628-ahds74784.png
+./TestFList/foLder 3/Sub_Folder3-1/ThirdLevel313/RemoteSettings-23.doc
+./TestFList/foLder 3/Sub_Folder3-1/ThirdLevel313/AccountData-user546.txt
+./TestFList/foLder 3/Sub_Folder3-1/Myresult-2.txt
+./TestFList/foLder 3/SubFolder-32/ThirdLevel323/AccessLog2.log
+./TestFList/foLder 3/SubFolder-32/ThirdLevel323/Screenshot-32908724552d.jpg
+./TestFList/foLder 3/SubFolder-32/ThirdLevel323/Index45.txt
+./TestFList/foLder 3/SubFolder-32/Third-level-32.2/UagaDoga-map2.doc
+./TestFList/foLder 3/SubFolder-32/Third-level-32.2/Error-12.zip
+./TestFList/foLder 3/SubFolder-32/Third-level-32.2/GTYREa98.png
+./TestFList/foLder 3/SubFolder-32/Makefile-2.bak
+./TestFList/foLder 3/SubFolder-32/Autloloader-v4.php
+./TestFList/foLder 3/SubFolder-32/DD-u77.gif
+./TestFList/foLder 3/SubFolder-32/third Level 32-1/EEE-idjdfh78.png
+./TestFList/foLder 3/SubFolder-32/third Level 32-1/Index-7.php
+./TestFList/foLder 3/SubFolder-32/third Level 32-1/F-098.v99.txt
+./TestFList/foLder 3/ThirdAttempt-2.fb2
+./TestFList/foLder 3/sub Folder 3.3/Screenshot-328973478562548726.png
+./TestFList/foLder 3/sub Folder 3.3/third Level 3.3.1/Level1Config.png
+./TestFList/foLder 3/sub Folder 3.3/third Level 3.3.1/CatDescriptions-w22.dat
+./TestFList/foLder 3/sub Folder 3.3/third Level 3.3.1/OpenLOg-5.log
+./TestFList/foLder 3/sub Folder 3.3/sF33.doc
+./TestFList/foLder 3/sub Folder 3.3/UserList2.txt
+./TestFList/foLder 3/sub Folder 3.3/Third-level-3.3-2/A-1.txt
+./TestFList/foLder 3/sub Folder 3.3/Third-level-3.3-2/IndexList-78.dat
+./TestFList/foLder 3/sub Folder 3.3/Third-level-3.3-2/DocAbout67.png
+./TestFList/foLder 3/sub Folder 3.3/ThirdLevel333/User-9048465.dat
+./TestFList/foLder 3/sub Folder 3.3/ThirdLevel333/INdexData77.txt
+./TestFList/foLder 3/sub Folder 3.3/ThirdLevel333/Backup-v.988-99.zip
+./TestFList/mainError22.err
+./TestFList/Logo-v.2.png

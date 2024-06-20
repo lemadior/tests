@@ -37,3 +37,11 @@ moments I'm added on my own.
 Run ```testArrays.php``` file
 
 As output the elements of the result array must be shown.
+
+4. RENAME FILES
+
+Run ```testRenameFiles.php``` file
+
+At first all files inside ./TestFList directory will rename.
+Second, show all files with '.jpg' extension.
+
