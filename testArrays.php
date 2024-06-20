@@ -12,15 +12,15 @@ function proceedArrays(array $arrOne, array $arrTwo): array
         return [];
     }
 
-    $result = [];
+    $res = [];
 
     $reverseLen = $lenTwo - 1;
 
     foreach ($arrOne as $i => $valueOne) {
-        $result[] = $valueOne . '-' . $arrTwo[$reverseLen - $i];
+        $res = array(... $res, $valueOne . '-' . $arrTwo[$reverseLen - $i]);
     }
 
-    return $result;
+    return $res;
 }
 
 // Show results
