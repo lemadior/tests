@@ -47,3 +47,9 @@ Second, show all files with '.jpg' extension.
 
 **NOTE:** Full list of directories structure can be found at ```./Data/RenameFilesTaskList.txt```
 
+5. CSV
+
+Run ```testCSV.php``` file
+
+The result file './Data/test.csv' must be created.
+
