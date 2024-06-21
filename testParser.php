@@ -1,6 +1,5 @@
 <?php
 
-const DOMAIN = 'wikipedia.org';
 const BASE_URL = 'https://en.wikipedia.org/';
 const PARAM_IMG = 'src';
 const PARAM_LINK = 'href';
