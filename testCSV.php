@@ -40,11 +40,24 @@ function mergeTwoArrays(array $array1, array $array2): array
     return $arr;
 }
 
+/**
+ * @param mixed $value1
+ * @param mixed $value2
+ *
+ * @return string
+ */
 function mergeArrayValues(mixed $value1, mixed $value2): string
 {
     return is_string($value1) || is_string($value2) ? $value1 . ' ' . $value2 : $value1 . $value2;
 }
 
+/**
+ * @param array $array1
+ * @param array $array2
+ * @param string $filename
+ *
+ * @return bool
+ */
 function createCSVFromArrays(array $array1, array $array2, string $filename): bool
 {
     $array = mergeTwoArrays($array1, $array2);
