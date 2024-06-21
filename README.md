@@ -53,3 +53,9 @@ Run ```testCSV.php``` file
 
 The result file './Data/test.csv' must be created.
 
+6. Parser
+
+Run ```testParser.php``` file
+
+NOTE: after run the file, another file ```./Data/raw_data_to_parse.txt``` 
+will be crated for debug purpose.
