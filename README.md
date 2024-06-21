@@ -45,3 +45,5 @@ Run ```testRenameFiles.php``` file
 At first all files inside ./TestFList directory will rename.
 Second, show all files with '.jpg' extension.
 
+**NOTE:** Full list of directories structure can be found at ```./Data/RenameFilesTaskList.txt```
+
