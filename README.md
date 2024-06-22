@@ -59,3 +59,18 @@ Run ```testParser.php``` file
 
 NOTE: after run the file, another file ```./Data/raw_data_to_parse.txt``` 
 will be crated for debug purpose.
+
+7. MySQL. Query associated data
+
+        DATABASE TYPE: MySQL
+        DATABASE NAME: testdb
+
+To fill the database use the ```test_associated.sql``` dump file;
+
+**IMPORTANT!** Before run test file, please specify proper user and password
+values for $user and #password variables!
+
+Run ```testMySQL_associated.php``` file
+
+If query succeed, the result will print to the stdout and the file
+'./Data/data_db_associated.txt' will create at the same time.
