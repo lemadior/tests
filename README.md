@@ -74,3 +74,19 @@ Run ```testMySQL_associated.php``` file
 
 If query succeed, the result will print to the stdout and the file
 './Data/data_db_associated.txt' will create at the same time.
+
+8. MySQL. Remove duplicate record from table
+
+        DATABASE TYPE: MySQL
+        DATABASE NAME: testdb
+
+To fill the database use the ```test_duplicates.sql``` dump file.
+
+To delete duplicates directly from MySQL use the ```delete_duplicates.sql``` file.
+
+**IMPORTANT!** Before run test file, please specify proper user and password
+values for $user and #password variables!
+
+Run ```testMySQL_duplicates.php``` file
+
+If query succeed, the success message will print to stdout.
