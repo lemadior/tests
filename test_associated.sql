@@ -50,3 +50,11 @@ INSERT INTO `associations` (`c_id`, `p_id`) VALUES
 	(3, 3);
 
 UNLOCK TABLES;
+
+# QUERY FOR get associated data
+
+# SELECT categories.c_name, products.p_name
+# FROM associations
+# JOIN products ON products.id = associations.p_id
+# JOIN categories ON categories.id = associations.c_id
+# ORDER BY c_name;
